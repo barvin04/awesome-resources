@@ -353,6 +353,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 - :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :video_camera: [Geometric Deep Learning by Michael Bronstein](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+- :video_camera: [CS 224W - Graph Neural Networks by Jure Leskovech](https://www.youtube.com/watch?v=uEPPnR22fxg&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-)
 
 ---
 
